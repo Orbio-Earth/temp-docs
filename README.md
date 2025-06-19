@@ -47,6 +47,17 @@ GitHub Pages requires a public repository (unless you have GitHub Pro/Enterprise
 3. Click **"Change repository visibility"**
 4. Select **"Make public"**
 
+### 4. Add Website to Repository About Section
+
+Make your site easily discoverable:
+
+1. Go to your repository's main page on GitHub
+2. Click the **gear icon (⚙️)** next to "About" on the right sidebar
+3. Check **"Use your GitHub Pages website"** 
+4. Click **"Save changes"**
+
+This adds a clickable link to your documentation site directly on your repository page.
+
 ## Deployment Process
 
 ### How It Works
